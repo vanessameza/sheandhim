@@ -1,3 +1,23 @@
 body {
 	background: green;
 }
+
+nav {
+	background-color: blue;
+}
+
+footer {
+	background-color: purple;
+}
+
+.one {
+	background: yellow;
+}
+
+.two {
+	background: orange;
+}
+
+.three {
+	background: pink;
+}
